@@ -1,0 +1,10 @@
+{
+  "textures": {
+    "layer0": "item/wooden_axe"
+  },
+  "parent": "item/generated",
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},"model": "block/custom/wooden_axe"}
+  ]
+}
