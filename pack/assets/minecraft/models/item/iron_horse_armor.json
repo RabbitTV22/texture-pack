@@ -1,0 +1,20 @@
+{
+  "textures": {
+    "layer0": "item/iron_horse_armor"
+  },
+  "parent": "item/generated",
+  "overrides": [
+    {
+      "predicate": {"custom_model_data": 1},"model": "block/custom/bbq"},
+    {
+      "predicate": {"custom_model_data": 2},"model": "block/custom/poster"},    
+       {
+      "predicate": {"custom_model_data": 3},"model": "block/custom/pc"},
+    {
+      "predicate": {"custom_model_data": 4},"model": "block/custom/arrow"},
+	    {
+      "predicate": {"custom_model_data": 5},"model": "block/custom/strawhat"},
+    {
+      "predicate": {"custom_model_data": 6},"model": "block/custom/glasses"}
+  ]
+}
