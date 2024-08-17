@@ -1,0 +1,13 @@
+{
+  "connect.encrypting": "Loading the server for you...",
+  "connect.connecting": "Connecting to Rabbit Network",
+  "menu.disconnect": "See ya later!",
+  "menu.game": "Rabbit Network",
+  "menu.generatingLevel": "Loading the game for you",
+  "menu.generatingTerrain": "Loading the game for you",
+  "subtitles.entity.rabbit.death": "Rabbit dies 😢",
+  "subtitles.entity.rabbit.hurt": "Rabbit hurts :(",
+  "menu.returnToGame": "Back to Rabbit Network",
+  "item.minecraft.wooden_axe": "Wand",
+  "menu.shareToLan": "www.rabbit-network.net"
+}
