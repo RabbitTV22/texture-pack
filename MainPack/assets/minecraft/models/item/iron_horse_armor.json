@@ -8,13 +8,68 @@
       "predicate": {"custom_model_data": 1},"model": "block/custom/bbq"},
     {
       "predicate": {"custom_model_data": 2},"model": "block/custom/poster"},    
-       {
+    {
       "predicate": {"custom_model_data": 3},"model": "block/custom/pc"},
     {
       "predicate": {"custom_model_data": 4},"model": "block/custom/arrow"},
-	    {
+	{
       "predicate": {"custom_model_data": 5},"model": "block/custom/strawhat"},
     {
-      "predicate": {"custom_model_data": 6},"model": "block/custom/glasses"}
+      "predicate": {"custom_model_data": 6},"model": "block/custom/glasses"},
+	{
+      "predicate": {"custom_model_data": 7},"model": "block/custom/mushroomhat"},
+	{
+      "predicate": {"custom_model_data": 8},"model": "block/custom/hearthat"},
+	{
+      "predicate": {"custom_model_data": 9},"model": "block/custom/antlers"},
+    {
+      "predicate": {"custom_model_data": 10},"model": "block/custom/bluehat"},
+	{
+      "predicate": {"custom_model_data": 11},"model": "block/custom/greenhat"},
+	{
+      "predicate": {"custom_model_data": 12},"model": "block/custom/orangehat"},
+	{
+      "predicate": {"custom_model_data": 13},"model": "block/custom/redhat"},
+    {
+      "predicate": {"custom_model_data": 14},"model": "block/custom/froghat1"},
+    {
+      "predicate": {"custom_model_data": 15},"model": "block/custom/froghat2"},
+    {
+      "predicate": {"custom_model_data": 16},"model": "block/custom/cactushat"},
+    {
+      "predicate": {"custom_model_data": 17},"model": "block/custom/eggs/blue_and_orange_easter_egg"},
+    {
+      "predicate": {"custom_model_data": 18},"model": "block/custom/eggs/blue_easter_egg"},
+	{
+      "predicate": {"custom_model_data": 19},"model": "block/custom/eggs/cyan_easter_egg"},
+	{
+      "predicate": {"custom_model_data": 20},"model": "block/custom/eggs/gold_easter_egg"},
+	{
+      "predicate": {"custom_model_data": 21},"model": "block/custom/eggs/green_easter_egg"},
+    {
+      "predicate": {"custom_model_data": 22},"model": "block/custom/eggs/pink_easter_egg"},
+    {
+      "predicate": {"custom_model_data": 23},"model": "block/custom/eggs/purple_easter_egg"},
+    {
+      "predicate": {"custom_model_data": 24},"model": "block/custom/eggs/red_and_purple_easter_egg"},
+    {
+      "predicate": {"custom_model_data": 25},"model": "block/custom/villagerhats/armorermask"},
+    {
+      "predicate": {"custom_model_data": 26},"model": "block/custom/villagerhats/butcherheadband"},
+    {
+      "predicate": {"custom_model_data": 27},"model": "block/custom/villagerhats/cartographermonocle"},
+	{
+      "predicate": {"custom_model_data": 28},"model": "block/custom/villagerhats/farmerhat"},
+	{
+      "predicate": {"custom_model_data": 29},"model": "block/custom/villagerhats/fisherhat"},
+	{
+      "predicate": {"custom_model_data": 30},"model": "block/custom/villagerhats/fletcherhat"},
+    {
+      "predicate": {"custom_model_data": 31},"model": "block/custom/villagerhats/librarianhat"},
+    {
+      "predicate": {"custom_model_data": 32},"model": "block/custom/villagerhats/shepherdhat"},
+    {
+      "predicate": {"custom_model_data": 33},"model": "block/custom/villagerhats/weaponsmitheyepatch"}		  
+       
   ]
 }

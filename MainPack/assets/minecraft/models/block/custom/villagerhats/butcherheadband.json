@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "entity/villager/profession/butcher",
+		"particle": "entity/villager/profession/butcher"
+	},
+	"elements": [
+		{
+			"from": [3.75, 0.1, 1.75],
+			"to": [11.75, 5.6, 9.75],
+			"faces": {
+				"north": {"uv": [10, 2.25, 12, 3.5], "texture": "#0"},
+				"east": {"uv": [8, 2.25, 10, 3.5], "texture": "#0"},
+				"south": {"uv": [14, 2.25, 16, 3.5], "texture": "#0"},
+				"west": {"uv": [12, 2.25, 14, 3.5], "texture": "#0"},
+				"up": {"uv": [10, 0.25, 12, 2.25], "texture": "#0"},
+				"down": {"uv": [10, 3.5, 12, 4.25], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 7, -2.25]
+		},
+		"firstperson_lefthand": {
+			"translation": [6, 6.25, -5.5]
+		},
+		"ground": {
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [15, 45, 0],
+			"translation": [1.25, 1.75, 0],
+			"scale": [0.96, 0.96, 0.96]
+		},
+		"head": {
+			"translation": [0.5, 12.25, 4.25],
+			"scale": [1.85, 1.85, 1.85]
+		}
+	}
+}

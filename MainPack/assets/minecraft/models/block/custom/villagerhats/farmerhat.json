@@ -1,0 +1,70 @@
+{
+	"credit": "Take her for a trip",
+	"texture_size": [64, 64],
+	"textures": {
+		"4": "minecraft:entity/villager/profession/farmer",
+		"particle": "minecraft:entity/villager/profession/armorer"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 2], "texture": "#missing"},
+				"east": {"uv": [0, 2, 2, 4], "texture": "#missing"},
+				"south": {"uv": [2, 0, 4, 2], "texture": "#missing"},
+				"west": {"uv": [2, 2, 4, 4], "texture": "#missing"},
+				"up": {"uv": [11.75, 16, 7.75, 12], "texture": "#4"},
+				"down": {"uv": [11.75, 12, 7.75, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 4, 12],
+			"faces": {
+				"north": {"uv": [10, 2, 12, 3], "texture": "#4"},
+				"east": {"uv": [8, 2, 10, 3], "texture": "#4"},
+				"south": {"uv": [14, 2, 16, 3], "texture": "#4"},
+				"west": {"uv": [12, 2, 14, 3], "texture": "#4"},
+				"up": {"uv": [10, 0, 12, 2], "texture": "#4"},
+				"down": {"uv": [12, 0, 14, 2], "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 25, 0],
+			"translation": [0, 5.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 25, 0],
+			"translation": [0, 6.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"translation": [0, -1.25, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [15, 45, 0],
+			"translation": [0, 0.75, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"head": {
+			"rotation": [3.75, 0, 0],
+			"translation": [0, 15.75, 1.25],
+			"scale": [1.85, 1.85, 1.85]
+		}
+	}
+}
