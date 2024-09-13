@@ -69,7 +69,11 @@
     {
       "predicate": {"custom_model_data": 32},"model": "block/custom/villagerhats/shepherdhat"},
     {
-      "predicate": {"custom_model_data": 33},"model": "block/custom/villagerhats/weaponsmitheyepatch"}		  
+      "predicate": {"custom_model_data": 33},"model": "block/custom/villagerhats/weaponsmitheyepatch"},
+    {
+      "predicate": {"custom_model_data": 34},"model": "block/custom/astronauthelmet"},
+    {
+      "predicate": {"custom_model_data": 35},"model": "block/custom/strawhat2"}	  
        
   ]
 }
